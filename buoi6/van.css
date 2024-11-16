@@ -1,0 +1,26 @@
+div{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    font-size: 40px;
+}
+p{
+    font-size: 40px;
+}
+button{
+    background-color: rgb(203, 224, 44);
+    border-radius: 30px;
+    font-size: 30px;
+}
+.container {
+    display: flex; 
+    justify-content: center; 
+    align-items: flex-end;  
+    padding: 10px; 
+    text-align: end; 
+}
+  
+p {
+    margin: 0; 
+}
