@@ -1,0 +1,42 @@
+div{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    font-size: 40px;
+}
+p{
+    font-size: 40px;
+}
+button{
+    background-color: rgb(203, 224, 44);
+    border-radius: 10px;
+    font-size: 30px;
+}
+.container {
+    display: flex; 
+    justify-content: center; 
+    align-items: flex-end;  
+    padding: 10px; 
+    text-align: end; 
+}
+.bao {
+    border: 10px solid #100a0a;
+}
+.bao1{
+    border: 10px solid #e81f1f;
+}
+.can{
+    padding: 200px;
+}
+.emp{
+    height: 300px;
+    width: 700px;
+    border: 10px solid #e81f1f;
+}
+.xanh{
+    border: 10px solid #10b023;
+}
+p {
+    margin: 0; /
+}
